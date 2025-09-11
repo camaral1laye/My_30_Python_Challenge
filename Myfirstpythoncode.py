@@ -1,4 +1,3 @@
-x = 2
-y = 3
-z = x+y
-print(z)
+name = 'Sam'
+if name == 'Sam':
+    print('Hello Sam')
